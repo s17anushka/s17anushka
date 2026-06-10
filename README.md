@@ -147,7 +147,7 @@ Real-time pose analysis detecting joint angles and flagging postural deviation.
 
 <br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=s17anushka&hide_border=true&background=000000&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=0a0a0a&dates=0a0a0a&stroke=0a0a0a)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=s17anushka&hide_border=true&background=000000&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=58a6ff&stroke=000000)](https://git.io/streak-stats)
 
 <br/>
 
